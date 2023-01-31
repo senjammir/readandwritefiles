@@ -11,3 +11,4 @@ for i in range(92):  # for loop to iterate over the 92 lines in the file
         f"{x[1]},{x[2]},{x[4]}\n"
     )  # write the desired fields into new file
 customer_outfile.close()
+
